@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-wyqg4c.pusat4dafn.cfd/sitemap.xml
